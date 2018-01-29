@@ -1,2 +1,2 @@
-# One-Corporation-Front-Responsive
-This was one test for "one firm" who needed to be responsive.
+# Front-End-Test
+Test Front-End for one firm
